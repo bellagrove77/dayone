@@ -1,3 +1,0 @@
-# dayone
-
-Hello World!
